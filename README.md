@@ -4,6 +4,7 @@
 - This macro also applies conditional formating to the percent change column and quickly visualize if it is a positive or negative change.
 - It is able to run the analysis for all tabs in just one click.
 
-- You can find the code source in the parent folder.
+- I split the challenge into 2 sub-routines. The first one "Year_stock_calculation" has all the code and logic to build a summarise table with the information for the CURRENT tab (year)
+- In the second sub-routine "Year_stock_worksheet" we call the first sub-routine to run the logic for all the tabs (2018, 2019, 2020). 
 
 - This macro/code was developed by Ivan Corona
