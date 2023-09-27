@@ -5,6 +5,8 @@
 - It is able to run the analysis for all tabs in just one click.
 
 - I split the challenge into 2 sub-routines. The first one "Year_stock_calculation" has all the code and logic to build a summarise table with the information for the CURRENT tab (year)
-- In the second sub-routine "Year_stock_worksheet" we call the first sub-routine to run the logic for all the tabs (2018, 2019, 2020). 
+- In the second sub-routine "Year_stock_worksheet" we call the first sub-routine to run the logic for all the tabs (2018, 2019, 2020).
+
+- You can find screenshots of the results of the analysis for the years 2018 - 2020
 
 - This macro/code was developed by Ivan Corona
